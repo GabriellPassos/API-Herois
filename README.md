@@ -1,6 +1,6 @@
 # APIREST Herois
 ## Sobre o projeto
-  Esta api foi montade utilizando minimal api, a ideia foi de trazer velocidade para o projeto além de menor poluição visual. Optei por utilizar uma classe Router para fazer o gerencimaneto das rotas para evitar código sobresalente dado a dimensão do projeto. Além disso decidi utilizar um framework FluentValidation, que foi de grande ajuda. A ideia geral foi economizar de tempo e ser o mais objetivo possível.
+  Esta api foi montade utilizando minimal api, a ideia foi de trazer velocidade para o projeto além de menor poluição visual. Optei por utilizar uma classe Router para fazer o gerencimaneto das rotas para evitar código sobresalente dado a dimensão do projeto. Além disso decidi utilizar um framework FluentValidation para gerar as validações e foi de grande ajuda. A ideia geral foi economizar de tempo e ser o mais objetivo possível.
 
 ## :mag_right: Visão geral
 ## Rotas
